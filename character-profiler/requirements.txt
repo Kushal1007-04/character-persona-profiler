@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pillow
+torch
+transformers
+mediapipe
+openai
+clip-by-openai
